@@ -3,7 +3,6 @@ export default {
   data() {
     return {
         message: "Questo è un jumbotron",
-      
     }
   }
 }

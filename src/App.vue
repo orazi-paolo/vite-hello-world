@@ -8,6 +8,8 @@ export default {
         AppHero
     },
     data() {
+        return {
+        }
     }
 }
 </script>
